@@ -1548,7 +1548,7 @@ if (!groupOnly(ctx)) return;
 
     const menuCaption = `<blockquote>  
  T R E D I C T I N V I C T U S
-       V30 • GEN VI
+       V25 • GEN VI
 
 👑 Owner : @Xatanicvxii  
 💮 Partner : Bella
@@ -1657,7 +1657,7 @@ bot.action("controls", async (ctx) => {
   const controlsMenu = `
 <blockquote>  
  T R E D I C T I N V I C T U S
-       V25 • GEN VI
+       V30 • GEN VI
          
 • CONTROL SETTINGS •
 • /connect → Add Sender
@@ -1670,6 +1670,7 @@ bot.action("controls", async (ctx) => {
 • /addsvip → Supervip User
 • /delsvip → Delete Supervip
 • /autoaktif → Rest Bot Online
+• /pullupdate → Auto Update
 
  Security Mode : ACTIVE
  Server : Xatanical Network</blockquote>`;
