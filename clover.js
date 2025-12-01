@@ -1548,7 +1548,7 @@ if (!groupOnly(ctx)) return;
 
     const menuCaption = `<blockquote>  
  T R E D I C T I N V I C T U S
-       V25 • GEN VI
+       V30 • GEN VI
 
 👑 Owner : @Xatanicvxii  
 💮 Partner : Bella
